@@ -34,7 +34,7 @@ footer{
     font-size: 30px;
     margin-bottom: 70px
 }
-.contatic{
+.contact{
     background-color: #ffffff;
     margin: auto;
     width: 787px;
@@ -42,7 +42,7 @@ footer{
     border-radius: 10px;
     box-shadow: 4px 4px #474073
 }
-.contaticAncors{
+.contactAncors{
     display: flex;
     justify-content: center;
 }
